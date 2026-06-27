@@ -14,7 +14,7 @@ The mod utilizes XML configuration files to define entities, loot tables, and us
 *   **Shared Styling:** Centralized styling for all UI elements in `XUi_Common/styles.xml`.
 
 ## 📁 Project Structure
-
+<code>
 The project follows a modular structure, with configuration files separated by concern:
 └── Mods
     └── LargeBackpackMod
@@ -28,7 +28,7 @@ The project follows a modular structure, with configuration files separated by c
             │   └── xui.xml
             └── XUi_Common
                 └── styles.xml
-
+</code>
 
 ### Installation
 
