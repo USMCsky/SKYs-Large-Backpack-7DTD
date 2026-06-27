@@ -1,6 +1,6 @@
-![Xml](https://img.shields.io/badge/XML-orange?style=for-the-badge)
-![7DTD](https://img.shields.io/badge/7DTD-Mod%20Edition-3C8527?style=for-the-badge)
-![Author](https://img.shields.io/badge/USMCsky%25-blue?style=for-the-badge&logo=openjdk&logoColor=white)
+![Xml](https://img.shields.io/badge/XML?style=for-the-badge)
+![7DTD](https://img.shields.io/badge/7DTD-Mod?style=for-the-badge)
+![Author](https://img.shields.io/badge/USMCsky?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 # Large Backpack Mod
 
