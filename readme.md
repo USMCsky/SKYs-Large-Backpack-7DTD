@@ -1,7 +1,3 @@
-![Xml](https://img.shields.io/badge/XML?style=for-the-badge)
-![7DTD](https://img.shields.io/badge/7DTD-Mod?style=for-the-badge)
-![Author](https://img.shields.io/badge/USMCsky?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 # Large Backpack Mod
 
 This project is a mod designed for 7 DAYS TO DIE, focusing on enhancing the backpack with 96 slots. 
