@@ -16,18 +16,19 @@ The mod utilizes XML configuration files to define entities, loot tables, and us
 ## 📁 Project Structure
 
 The project follows a modular structure, with configuration files separated by concern:
+└── Mods
+    └── LargeBackpackMod
+        ├── ModInfo.xml
+        └── Config
+            ├── entityclasses.xml
+            ├── loot.xml
+            ├── XUi
+            │   ├── windows.xml
+            │   ├── controls.xml
+            │   └── xui.xml
+            └── XUi_Common
+                └── styles.xml
 
-LargeBackpackMod/
-├── ModInfo.xml          # Core mod metadata file.
-├── Config/
-│   ├── entityclasses.xml  # Defines the core entities used in the mod.
-│   ├── loot.xml           # Configuration for item drops and loot tables.
-│   ├── XUi/               # UI definitions folder.
-│   │   ├── windows.xml    # Main window layouts.
-│   │   ├── controls.xml   # Specific control elements.
-│   │   └── xui.xml        # General UI structure.
-│   └── XUi_Common/        # Shared UI components and styles.
-│       └── styles.xml     # Global styling definitions.
 
 ### Installation
 
