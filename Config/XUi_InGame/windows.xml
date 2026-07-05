@@ -12,10 +12,12 @@
     <set xpath="/windows/window[@name='windowBackpack']/rect[@name='content']/grid[@name='inventory']/@cell_height">50</set>
     <set xpath="/windows/window[@name='windowBackpack']/rect[@name='content']/grid[@name='inventory']/item_stack/@cell_size">50</set>
 
-    <!-- Resize dropped-backpack looting to match the expanded container. -->
-    <set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@rows">8</set>
-    <set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@cols">12</set>
-    <set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@cell_width">50</set>
-    <set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@cell_height">50</set>
-    <set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/item_stack/@cell_size">50</set>
+    <!-- Resize dropped-backpack bag storage without affecting normal loot containers. -->
+    <set xpath="/windows/window[@name='windowBagStorage']/@width">606</set>
+    <set xpath="/windows/window[@name='windowBagStorage']/@height">461</set>
+    <set xpath="/windows/window[@name='windowBagStorage']/grid[@name='queue']/@rows">8</set>
+    <set xpath="/windows/window[@name='windowBagStorage']/grid[@name='queue']/@cols">12</set>
+    <set xpath="/windows/window[@name='windowBagStorage']/grid[@name='queue']/@cell_width">50</set>
+    <set xpath="/windows/window[@name='windowBagStorage']/grid[@name='queue']/@cell_height">50</set>
+    <set xpath="/windows/window[@name='windowBagStorage']/grid[@name='queue']/item_stack/@cell_size">50</set>
 </configs>

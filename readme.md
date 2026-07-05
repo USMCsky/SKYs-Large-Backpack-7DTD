@@ -8,7 +8,7 @@ Updated for 7DTD V3.0.
 
 *   **Player Inventory Patch:** Increases `CarryCapacity` and `BagSize` in `entityclasses.xml`.
 *   **Dropped Backpack Patch:** Resizes the `playerBackpack` loot container in `loot.xml`.
-*   **V3.0 XUi Patch:** Updates the V3.0 `XUi_InGame` backpack and looting windows to display all 96 slots.
+*   **V3.0 XUi Patch:** Updates the V3.0 `XUi_InGame` backpack and dropped-backpack bag storage windows to display all 96 slots without changing normal loot containers.
 
 ## 📁 Project Structure
 <code>
