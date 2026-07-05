@@ -5,10 +5,6 @@
         └── Config
             ├── entityclasses.xml
             ├── loot.xml
-            ├── XUi
-            │   ├── windows.xml
-            │   ├── controls.xml
-            │   └── xui.xml
-            └── XUi_Common
-                └── styles.xml
-
+            └── XUi_InGame
+                ├── windows.xml
+                └── xui.xml

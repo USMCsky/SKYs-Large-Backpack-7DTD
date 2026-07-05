@@ -2,8 +2,8 @@
 <xml>
 	<Name value="LargeBackpackMod" />
 	<DisplayName value="Large Backpack Mod" />
-	<Description value="Increases player backpack size to 96 slots" />
+	<Description value="Increases player backpack size to 96 slots for 7DTD V3.0" />
 	<Author value="USMCsky" />
-	<Version value="1.0.0" />
+	<Version value="1.1.0" />
 	<Website value="" />
 </xml>

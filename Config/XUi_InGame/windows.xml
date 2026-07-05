@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs>
+    <!-- Match the V3.0 rect-based backpack layout and keep 96 slots on screen. -->
+    <set xpath="/windows/window[@name='windowBackpack']/@width">606</set>
+    <set xpath="/windows/window[@name='windowBackpack']/@height">416</set>
+    <set xpath="/windows/window[@name='windowBackpack']/rect[@name='content']/@height">370</set>
+    <set xpath="/windows/window[@name='windowBackpack']/rect[@name='content']/sprite[@name='backgroundMain']/@width">606</set>
+    <set xpath="/windows/window[@name='windowBackpack']/rect[@name='content']/sprite[@name='backgroundMain']/@height">403</set>
+    <set xpath="/windows/window[@name='windowBackpack']/rect[@name='content']/grid[@name='inventory']/@rows">8</set>
+    <set xpath="/windows/window[@name='windowBackpack']/rect[@name='content']/grid[@name='inventory']/@cols">12</set>
+    <set xpath="/windows/window[@name='windowBackpack']/rect[@name='content']/grid[@name='inventory']/@cell_width">50</set>
+    <set xpath="/windows/window[@name='windowBackpack']/rect[@name='content']/grid[@name='inventory']/@cell_height">50</set>
+    <set xpath="/windows/window[@name='windowBackpack']/rect[@name='content']/grid[@name='inventory']/item_stack/@cell_size">50</set>
+
+    <!-- Resize dropped-backpack looting to match the expanded container. -->
+    <set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@rows">8</set>
+    <set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@cols">12</set>
+    <set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@cell_width">50</set>
+    <set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/@cell_height">50</set>
+    <set xpath="/windows/window[@name='windowLooting']/rect[@name='content']/grid[@name='queue']/item_stack/@cell_size">50</set>
+</configs>
