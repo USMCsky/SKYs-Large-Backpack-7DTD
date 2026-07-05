@@ -1,3 +1,7 @@
+[![Repo Size](https://img.shields.io/github/repo-size/USMCsky/7DTD_Large_BackPack_96Slot?style=for-the-badge)](https://github.com/USMCsky/7DTD_Large_BackPack_96Slot)
+[![Last Commit](https://img.shields.io/github/last-commit/USMCsky/7DTD_Large_BackPack_96Slot?style=for-the-badge)](https://github.com/USMCsky/7DTD_Large_BackPack_96Slot/commits)
+[![Top Language](https://img.shields.io/github/languages/top/USMCsky/7DTD_Large_BackPack_96Slot?style=for-the-badge)](https://github.com/USMCsky/7DTD_Large_BackPack_96Slot)
+
 # Large Backpack Mod
 
 This project is a mod designed for 7 DAYS TO DIE, focusing on enhancing the backpack with 96 slots.
